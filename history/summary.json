@@ -4,36 +4,40 @@
     "url": "https://tusharkantnaik.in",
     "icon": "https://icons.duckduckgo.com/ip3/tusharkantnaik.in.ico",
     "slug": "portfolio-tusharkantnaik-in",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 884,
-    "timeDay": 176,
-    "timeWeek": 204,
-    "timeMonth": 803,
-    "timeYear": 884,
-    "dailyMinutesDown": {}
+    "time": 859,
+    "timeDay": 59,
+    "timeWeek": 186,
+    "timeMonth": 779,
+    "timeYear": 859,
+    "dailyMinutesDown": {
+      "2026-07-17": 0
+    }
   },
   {
     "name": "Portfolio (.com)",
     "url": "https://tusharkantnaik.com",
     "icon": "https://icons.duckduckgo.com/ip3/tusharkantnaik.com.ico",
     "slug": "portfolio-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 359,
-    "timeDay": 122,
-    "timeWeek": 237,
-    "timeMonth": 347,
-    "timeYear": 359,
-    "dailyMinutesDown": {}
+    "time": 351,
+    "timeDay": 108,
+    "timeWeek": 221,
+    "timeMonth": 339,
+    "timeYear": 351,
+    "dailyMinutesDown": {
+      "2026-07-17": 0
+    }
   },
   {
     "name": "Design System — Storybook",
@@ -46,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 351,
-    "timeDay": 218,
-    "timeWeek": 276,
-    "timeMonth": 343,
-    "timeYear": 351,
+    "time": 359,
+    "timeDay": 631,
+    "timeWeek": 320,
+    "timeMonth": 353,
+    "timeYear": 359,
     "dailyMinutesDown": {}
   }
 ]
