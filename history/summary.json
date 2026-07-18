@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tusharkantnaik.in.ico",
     "slug": "portfolio-tusharkantnaik-in",
     "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "91.40%",
-    "uptimeWeek": "98.77%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
-    "time": 859,
-    "timeDay": 59,
-    "timeWeek": 167,
-    "timeMonth": 749,
-    "timeYear": 859,
+    "uptime": "96.65%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "84.59%",
+    "uptimeMonth": "96.45%",
+    "uptimeYear": "96.65%",
+    "time": 836,
+    "timeDay": 52,
+    "timeWeek": 144,
+    "timeMonth": 681,
+    "timeYear": 836,
     "dailyMinutesDown": {
-      "2026-07-17": 124
+      "2026-07-18": 113,
+      "2026-07-17": 1440
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tusharkantnaik.com.ico",
     "slug": "portfolio-com",
     "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "91.41%",
-    "uptimeWeek": "98.77%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
-    "time": 351,
-    "timeDay": 108,
-    "timeWeek": 197,
-    "timeMonth": 336,
-    "timeYear": 351,
+    "uptime": "96.65%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "84.60%",
+    "uptimeMonth": "96.46%",
+    "uptimeYear": "96.65%",
+    "time": 343,
+    "timeDay": 58,
+    "timeWeek": 167,
+    "timeMonth": 325,
+    "timeYear": 343,
     "dailyMinutesDown": {
-      "2026-07-17": 124
+      "2026-07-18": 113,
+      "2026-07-17": 1440
     }
   },
   {
@@ -50,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 359,
-    "timeDay": 631,
-    "timeWeek": 343,
-    "timeMonth": 349,
-    "timeYear": 359,
+    "time": 357,
+    "timeDay": 304,
+    "timeWeek": 327,
+    "timeMonth": 351,
+    "timeYear": 357,
     "dailyMinutesDown": {}
   }
 ]
